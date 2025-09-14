@@ -34,6 +34,10 @@
 		line-height: 1.75em;
 	}
 
+	textarea {
+		resize: vertical;
+	}
+
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
